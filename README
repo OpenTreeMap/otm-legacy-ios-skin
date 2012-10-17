@@ -1,6 +1,10 @@
-This is the default skin for the iOS app, located here:
+# OpenTreeMap for iOS default skin
 
-http://github.com/azavea/OpenTreeMap-iOS/
+A default set of image resources and configuration files for the OpenTreeMap iOS application, also available on github.
+
+<a href="http://github.com/azavea/OpenTreeMap-iOS">http://github.com/azavea/OpenTreeMap-iOS</a>.
+
+## License
 
 OpenTreeMap is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
