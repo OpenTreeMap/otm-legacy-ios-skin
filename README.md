@@ -1,8 +1,10 @@
-# OpenTreeMap for iOS default skin
+# Default iOS skin OpenTreeMap 1.x
 
-A default set of image resources and configuration files for the OpenTreeMap iOS application, also available on github.
+A default set of image resources and configuration files for __version 1__ of the OpenTreeMap iOS application, also available on github.
 
-<a href="http://github.com/azavea/OpenTreeMap-iOS">http://github.com/azavea/OpenTreeMap-iOS</a>.
+<a href="https://github.com/OpenTreeMap/OpenTreeMap-iOS/tree/otm1">http://github.com/azavea/OpenTreeMap-iOS/tree/otm1</a>.
+
+NOTE: This skin will not work with the latest version of the application
 
 ## License
 
